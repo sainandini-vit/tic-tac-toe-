@@ -1,0 +1,23 @@
+# Problem  Statement 
+The purpose of this project is to develop a simple tic-tac-toe game using python. The game allows two players to play on a 3*3 boaed.The program takes player input, validates the move, updates the board, and checks whether a player has won or the game has ended in a draw.
+## Scope of the project 
+The project focuses on developing a basic two- player tic tac toe game using python. It includes a game board,player input,input validation, winner checking, draw detection, and an option to play again.
+The project is mainely designed to demonstrate basic python programming concepts such as functions, lists,loops, conditional statements, and error handling.
+## Target Users
+The target users of this project are:
+Students learning python programming.
+Beginners who want to understand basic game development.
+Users who want to play a simple two-player tic tac toe game
+## High-level features
+3*3 tic tac toe game board.
+Two-player gameplay using X and O.
+Player input from positions 1 to 9.
+Validation of player moves.
+Detection of winning combinations.
+Detection of draw condition.
+Option to play the game again.
+Error handling for invalid input.
+## Project Type
+Individual python project
+## Programming Language
+python
